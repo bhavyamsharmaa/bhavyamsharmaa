@@ -1,21 +1,42 @@
-# Hi, I'm Bhavyam Sharma 👋
+<h1 align="center">Hi, I'm Bhavyam Sharma 👋</h1>
 
-I’m a developer focused on building scalable **web and mobile applications** using modern technologies.  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=TypeScript+Developer;Backend+%26+React+Native+Learner;Open-Source+Contributor;Building+Real-World+Applications" />
+</p>
+
+---
+
+## 🚀 About Me
+I'm a developer focused on building scalable **web and mobile applications** using modern technologies.  
 Currently working on improving **backend development**, **system design fundamentals**, and **React Native applications**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages:** TypeScript, JavaScript, SQL, Python, Rust 
-**Frontend:** React.js, HTML, CSS  
-**Backend:** Node.js, REST APIs (Learning)  
-**Mobile:** React Native  
-**Tools:** Git, GitHub, VS Code, Postman  
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,python,rust,sqlite" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 - Building full-stack real-world applications
 - Strengthening backend architecture knowledge
 - Developing cross-platform mobile apps
@@ -23,23 +44,6 @@ Currently working on improving **backend development**, **system design fundamen
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyamsharmaa&show_icons=true&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyamsharmaa&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=bhavyamsharmaa)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamsharmaa&layout=compact)
-
----
-
-## 2026 Goals
-- Consistent open-source contributions  
-- Production-ready full-stack applications  
-- Public deployment of mobile apps  
-
----
-
-## Connect
-GitHub: https://github.com/bhavyamsharmaa  
-LinkedIn: https://www.linkedin.com/in/bhavyamsharmaa220
