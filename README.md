@@ -4,13 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;Backend+Developer;Cloud+Native+Learner;Building+Scalable+Systems" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhavyamsharmaa220">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=bhavyamsharmaa&color=blue" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
@@ -68,6 +61,17 @@ Open source strengthens my engineering discipline and system-level thinking.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/bhavyamsharmaa/bhavyamsharmaa/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🔗 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhavyamsharmaa220">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bhavyamsharmaa&color=blue" />
 </p>
 
 ---
