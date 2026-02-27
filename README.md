@@ -1,5 +1,8 @@
 <h1 align="center">Bhavyam Sharma</h1>
-<h3 align="center">Open Source Contributor • Backend Developer • Cloud Native Learner</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=Open+Source+Contributor;Backend+Developer;Cloud+Native+Learner;Building+Scalable+Systems" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhavyamsharmaa220">
@@ -19,7 +22,7 @@ I actively contribute to cloud-native and developer tooling ecosystems.
 - 🔹 Issue triaging & documentation improvements  
 - 🔹 Community discussions & PR reviews  
 
-Open source is where I refine scalable system thinking and collaborative engineering.
+Open source strengthens my engineering discipline and system-level thinking.
 
 ---
 
@@ -30,7 +33,7 @@ Open source is where I refine scalable system thinking and collaborative enginee
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go" />
 </p>
 
-### Backend & APIs
+### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
@@ -50,15 +53,6 @@ Open source is where I refine scalable system thinking and collaborative enginee
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
-
----
-
-## 🎯 Current Engineering Focus
-
-- Backend architecture & API design  
-- System design fundamentals  
-- Database optimization  
-- Cloud-native tooling contributions  
 
 ---
 
