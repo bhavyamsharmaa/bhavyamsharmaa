@@ -16,7 +16,7 @@ Currently working on improving **backend development**, **system design fundamen
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,rust,sqlite" />
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go" />
 </p>
 
 ### Frontend
@@ -27,6 +27,11 @@ Currently working on improving **backend development**, **system design fundamen
 ### Backend
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 ### Tools
@@ -45,5 +50,9 @@ Currently working on improving **backend development**, **system design fundamen
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhavyamsharmaa&show_icons=true&theme=tokyonight)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bhavyamsharmaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamsharmaa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
