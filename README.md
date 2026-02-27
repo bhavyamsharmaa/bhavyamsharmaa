@@ -13,19 +13,6 @@
 
 ---
 
-## 🌍 Open Source Focus
-
-I actively contribute to cloud-native and developer tooling ecosystems.
-
-- 🔹 Contributor to Backstage ecosystem  
-- 🔹 Contributor to Meshery ecosystem  
-- 🔹 Issue triaging & documentation improvements  
-- 🔹 Community discussions & PR reviews  
-
-Open source strengthens my engineering discipline and system-level thinking.
-
----
-
 ## 🛠 Tech Stack
 
 ### Languages
@@ -53,6 +40,19 @@ Open source strengthens my engineering discipline and system-level thinking.
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
+
+---
+
+## 🌍 Open Source Focus
+
+I actively contribute to cloud-native and developer tooling ecosystems.
+
+- 🔹 Contributor to Backstage ecosystem  
+- 🔹 Contributor to Meshery ecosystem  
+- 🔹 Issue triaging & documentation improvements  
+- 🔹 Community discussions & PR reviews  
+
+Open source strengthens my engineering discipline and system-level thinking.
 
 ---
 
