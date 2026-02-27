@@ -1,14 +1,25 @@
-<h1 align="center">Hi, I'm Bhavyam Sharma 👋</h1>
+<h1 align="center">Bhavyam Sharma</h1>
+<h3 align="center">Open Source Contributor • Backend Developer • Cloud Native Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00C2FF&center=true&vCenter=true&width=800&lines=TypeScript+Developer;Backend+%26+React+Native+Learner;Open-Source+Contributor;Building+Real-World+Applications" />
+  <a href="https://www.linkedin.com/in/bhavyamsharmaa220">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bhavyamsharmaa&color=blue" />
 </p>
 
 ---
 
-## 🚀 About Me
-I'm a developer focused on building scalable **web and mobile applications** using modern technologies.  
-Currently working on improving **backend development**, **system design fundamentals**, and **React Native applications**.
+## 🌍 Open Source Focus
+
+I actively contribute to cloud-native and developer tooling ecosystems.
+
+- 🔹 Contributor to Backstage ecosystem  
+- 🔹 Contributor to Meshery ecosystem  
+- 🔹 Issue triaging & documentation improvements  
+- 🔹 Community discussions & PR reviews  
+
+Open source is where I refine scalable system thinking and collaborative engineering.
 
 ---
 
@@ -16,44 +27,57 @@ Currently working on improving **backend development**, **system design fundamen
 
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,go" />
+</p>
+
+### Backend & APIs
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
-
-### Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
 </p>
 
 ### Databases
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 </p>
 
-### Tools
+### DevOps & Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
 
 ---
 
-## 🎯 Current Focus
-- Building full-stack real-world applications
-- Strengthening backend architecture knowledge
-- Developing cross-platform mobile apps
-- Contributing to open-source projects
+## 🎯 Current Engineering Focus
+
+- Backend architecture & API design  
+- System design fundamentals  
+- Database optimization  
+- Cloud-native tooling contributions  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhavyamsharmaa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhavyamsharmaa&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bhavyamsharmaa&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bhavyamsharmaa/bhavyamsharmaa/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<p align="center">
+  <i>Consistency compounds. Open source builds engineering maturity.</i>
 </p>
