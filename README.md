@@ -38,7 +38,7 @@
 
 ## 🌍 Open Source Focus
 
-I actively contribute to cloud-native and developer tooling ecosystems.
+I Actively contribute to cloud-native and developer tooling ecosystems.
 
 - 🔹 Contributor to Backstage ecosystem  
 - 🔹 Contributor to Meshery ecosystem  
