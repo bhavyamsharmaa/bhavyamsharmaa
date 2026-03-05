@@ -40,7 +40,6 @@
 
 I Actively contribute to cloud-native and developer tooling ecosystems.
 
-- 🔹 Contributor to Backstage ecosystem  
 - 🔹 Issue triaging & documentation improvements  
 - 🔹 Community discussions & PR reviews  
 
