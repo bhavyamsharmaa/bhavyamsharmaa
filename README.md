@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48"/>
 </p>
 
-### DevOps & TooLS
+### DevOps & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
