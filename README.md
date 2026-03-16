@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stac
 
 
 ### Languages
